@@ -1,4 +1,4 @@
-# Data Visualization with R  
+# Data Visualization with R Programming
 
 ## Overview  
 This repository provides an in-depth guide to data visualization using R, covering various types of plots with code examples using the `ggplot2` package. Visualizing data effectively helps in understanding patterns, trends, and insights, making decision-making easier.  
